@@ -1,2 +1,2 @@
-# Python (Practise Files)
+# Python (Practice Files)
 Python Variables, Data Structures, Operators
